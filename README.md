@@ -1,6 +1,22 @@
-# challengeHelloPrint
-Hello Print Challenge
+# helloPrint
 
-To run this project, run the following commands on the terminal
+> Neat Challenge
 
-1.npm install, 2.npm run dev (for dev purposes) and 3.npm run start (for regular execution)
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm run install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
